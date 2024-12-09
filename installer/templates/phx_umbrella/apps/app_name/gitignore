@@ -24,3 +24,5 @@ erl_crash.dump
 
 # Ignore package tarball (built via "mix hex.build").
 <%= @app_name %>-*.tar
+
+.DS_Store

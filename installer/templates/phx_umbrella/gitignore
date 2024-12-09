@@ -27,3 +27,5 @@ erl_crash.dump
 *.db
 *.db-*
 <% end %>
+
+.DS_Store
